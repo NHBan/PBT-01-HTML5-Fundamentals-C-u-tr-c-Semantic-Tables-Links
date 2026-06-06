@@ -118,3 +118,11 @@ Bài B3:
             <!-- Thiếu đóng thẻ p </p> và nên thêm icon copy bằng &copy;-->
     </footer>
 </body>
+
+bài B4
+4.1 Các thẻ được sử dụng trong screenshot là:<div>,<section>,<picture>,<source>,<img>,<a>
+Các thẻ mà trang shoppe không sửa dụng là:<artical>,<figure>+<figcaption>
+4.2 Các trang trên em chưa tìm thấy thẻ table 
+4.3  Thẻ form với action="/timkiem"
+method không khai báo nên nó mặc định là Get (Thông tin đẩy lên thanh url)
+ <input type="text"> được sử dụng trong form để tìm kiếm
